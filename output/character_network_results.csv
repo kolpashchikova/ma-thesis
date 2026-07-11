@@ -1,0 +1,11 @@
+novel,num_characters,density,top_characters
+0_2016.txt,43,0.030816171,"[('Erika', 848), ('Clementine', 557), ('Sam', 517), ('Oliver', 468), ('Vid', 350)]"
+0_2017.txt,52,0.013266332,"[('Mia', 695), ('Richardson', 409), ('Pearl', 239), ('Lexie', 136), ('McCullough', 117)]"
+0_2018.txt,24,0.028237585,"[('Roy', 518), ('Walter', 49), ('Gloria', 44), ('Eloe', 29), ('Celestial', 22)]"
+0_2019.txt,25,0.045687646,"[('Marianne', 640), ('Lorraine', 135), ('Peggy', 98), ('Jamie', 76), ('Alan', 67)]"
+0_2020.txt,26,0.025755879,"[('Nora', 694), ('Mrs Elm', 154), ('Dan', 62), ('Joe', 60), ('Ash', 38)]"
+1_2021.txt,18,0.034404414,"[('Eileen', 493), ('Alice', 355), ('Simon', 338), ('Felix', 216), ('Jesus', 38)]"
+1_2022.txt,58,0.012341926,"[('Sam', 1659), ('Sadie', 1363), ('Marx', 775), ('Dov', 244), ('Anna', 146)]"
+1_2023.txt,37,0.018122735,"[('Liu', 49), ('Brett', 41), ('Athena Liu', 31), ('Twitter', 31), ('Juniper Song', 31)]"
+1_2024.txt,44,0.029443173,"[('Phoebe', 973), ('Lila', 842), ('Gary', 572), ('Jim', 250), ('Marla', 249)]"
+1_2025.txt,13,0.068907563,"[('Raff', 259), ('Dom', 158), ('Hank', 129), ('Alex', 74), ('Rowan', 60)]"

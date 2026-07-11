@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-07">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Jim" label="Jim" />
+      <node id="Jims" label="Jims" />
+      <node id="Pillows" label="Pillows" />
+      <node id="Pauline" label="Pauline" />
+      <node id="Gary" label="Gary" />
+      <node id="Phoebe" label="Phoebe" />
+      <node id="Discman" label="Discman" />
+      <node id="Tom" label="Tom" />
+      <node id="Mia" label="Mia" />
+      <node id="Matt" label="Matt" />
+      <node id="Shakespeare" label="Shakespeare" />
+      <node id="Chaucer" label="Chaucer" />
+      <node id="Paula" label="Paula" />
+      <node id="Adam" label="Adam" />
+      <node id="Rick" label="Rick" />
+      <node id="Cornwall" label="Cornwall" />
+      <node id="Meowmeowmeowmeow" label="Meowmeowmeowmeow" />
+      <node id="Harry" label="Harry" />
+      <node id="Bob" label="Bob" />
+      <node id="Bach" label="Bach" />
+      <node id="Doritos" label="Doritos" />
+      <node id="Oreos" label="Oreos" />
+      <node id="Keurig" label="Keurig" />
+      <node id="Jane" label="Jane" />
+      <node id="Calvin Klein" label="Calvin Klein" />
+      <node id="Stone" label="Stone" />
+      <node id="Joe" label="Joe" />
+      <node id="Dalloway" label="Dalloway" />
+      <node id="Septimus" label="Septimus" />
+      <node id="Lila" label="Lila" />
+      <node id="Dante" label="Dante" />
+      <node id="Wharton" label="Wharton" />
+      <node id="Edith Wharton" label="Edith Wharton" />
+      <node id="Suz" label="Suz" />
+      <node id="Wendy" label="Wendy" />
+      <node id="Gregory Lancaster" label="Gregory Lancaster" />
+      <node id="Insert" label="Insert" />
+      <node id="Marla" label="Marla" />
+      <node id="Carlson" label="Carlson" />
+      <node id="Bitch" label="Bitch" />
+      <node id="Modernist" label="Modernist" />
+      <node id="Virginia Woolf" label="Virginia Woolf" />
+      <node id="Jesus" label="Jesus" />
+      <node id="Churchill" label="Churchill" />
+      <node id="Roy" label="Roy" />
+      <node id="Woolf" label="Woolf" />
+      <node id="Emma" label="Emma" />
+      <node id="Nat" label="Nat" />
+      <node id="Email Bob" label="Email Bob" />
+      <node id="God" label="God" />
+      <node id="Juice" label="Juice" />
+      <node id="Robert" label="Robert" />
+      <node id="Tae Bo" label="Tae Bo" />
+      <node id="Covid" label="Covid" />
+      <node id="Sexes" label="Sexes" />
+      <node id="Spoken" label="Spoken" />
+      <node id="Leon" label="Leon" />
+      <node id="Jude Law" label="Jude Law" />
+      <node id="Shelley" label="Shelley" />
+      <node id="Fort Adams" label="Fort Adams" />
+      <node id="Blank" label="Blank" />
+      <node id="Austen" label="Austen" />
+      <node id="Goodbye" label="Goodbye" />
+      <node id="Albert Schuyler" label="Albert Schuyler" />
+      <node id="Uncle Jim" label="Uncle Jim" />
+      <node id="Aunt Gina" label="Aunt Gina" />
+      <node id="Gina" label="Gina" />
+      <node id="Cranston" label="Cranston" />
+      <node id="Jane Eyre" label="Jane Eyre" />
+      <node id="Mel" label="Mel" />
+      <node id="Bourbon Bubbler" label="Bourbon Bubbler" />
+      <node id="Gary goodbye" label="Gary goodbye" />
+      <node id="Ryun" label="Ryun" />
+      <node id="Maid" label="Maid" />
+      <node id="Jackie" label="Jackie" />
+      <node id="Grandmother" label="Grandmother" />
+      <node id="Jackie Kennedy" label="Jackie Kennedy" />
+      <node id="Bootsie" label="Bootsie" />
+      <node id="Tevas" label="Tevas" />
+      <node id="Patricia" label="Patricia" />
+      <node id="Professor" label="Professor" />
+      <node id="JFK" label="JFK" />
+      <node id="Gran Cavallo" label="Gran Cavallo" />
+      <node id="Leonardo" label="Leonardo" />
+      <node id="Shh" label="Shh" />
+      <node id="Gary mouths" label="Gary mouths" />
+      <node id="Viv" label="Viv" />
+      <node id="Mei Mei" label="Mei Mei" />
+      <node id="CV" label="CV" />
+      <node id="Sex Woman" label="Sex Woman" />
+      <node id="Porn" label="Porn" />
+      <node id="Laurel" label="Laurel" />
+      <node id="Not Robert" label="Not Robert" />
+      <node id="Thyme" label="Thyme" />
+      <node id="Hanged Man" label="Hanged Man" />
+      <node id="Velcros" label="Velcros" />
+      <node id="Flo" label="Flo" />
+      <node id="marijuana" label="marijuana" />
+      <node id="Queen Victoria" label="Queen Victoria" />
+      <node id="Geoffrey" label="Geoffrey" />
+      <node id="Elizabeth" label="Elizabeth" />
+      <node id="Nick" label="Nick" />
+      <node id="Oliver" label="Oliver" />
+      <node id="Percy Jackson" label="Percy Jackson" />
+      <node id="Breakers" label="Breakers" />
+      <node id="Nancy" label="Nancy" />
+      <node id="Patricia naked" label="Patricia naked" />
+      <node id="Thy" label="Thy" />
+      <node id="Jesus Christ" label="Jesus Christ" />
+      <node id="Henry" label="Henry" />
+      <node id="Edgar Allan Poe’s" label="Edgar Allan Poe’s" />
+      <node id="Uncle Gerald" label="Uncle Gerald" />
+      <node id="Everybody Water" label="Everybody Water" />
+      <node id="Brontë" label="Brontë" />
+      <node id="Perfect" label="Perfect" />
+    </nodes>
+    <edges>
+      <edge source="Jim" target="Jims" id="0" weight="1" />
+      <edge source="Jim" target="Discman" id="1" weight="1" />
+      <edge source="Jim" target="Phoebe" id="2" weight="10" />
+      <edge source="Jim" target="Gary" id="3" weight="30" />
+      <edge source="Jim" target="Wendy" id="4" weight="3" />
+      <edge source="Jim" target="Lila" id="5" weight="29" />
+      <edge source="Jim" target="Juice" id="6" weight="2" />
+      <edge source="Jim" target="Fort Adams" id="7" weight="1" />
+      <edge source="Jim" target="Roy" id="8" weight="1" />
+      <edge source="Jim" target="Marla" id="9" weight="1" />
+      <edge source="Jim" target="Uncle Jim" id="10" weight="1" />
+      <edge source="Jim" target="Aunt Gina" id="11" weight="2" />
+      <edge source="Jim" target="Gina" id="12" weight="1" />
+      <edge source="Jim" target="Spoken" id="13" weight="1" />
+      <edge source="Jim" target="marijuana" id="14" weight="1" />
+      <edge source="Jim" target="Thy" id="15" weight="1" />
+      <edge source="Jim" target="Jesus Christ" id="16" weight="1" />
+      <edge source="Pillows" target="Pauline" id="17" weight="1" />
+      <edge source="Pauline" target="Phoebe" id="18" weight="11" />
+      <edge source="Pauline" target="Carlson" id="19" weight="2" />
+      <edge source="Pauline" target="Lila" id="20" weight="6" />
+      <edge source="Pauline" target="Gary" id="21" weight="3" />
+      <edge source="Gary" target="Phoebe" id="22" weight="25" />
+      <edge source="Gary" target="Lila" id="23" weight="85" />
+      <edge source="Gary" target="Wendy" id="24" weight="5" />
+      <edge source="Gary" target="Marla" id="25" weight="15" />
+      <edge source="Gary" target="Roy" id="26" weight="6" />
+      <edge source="Gary" target="Jude Law" id="27" weight="2" />
+      <edge source="Gary" target="Nat" id="28" weight="1" />
+      <edge source="Gary" target="Uncle Jim" id="29" weight="1" />
+      <edge source="Gary" target="Aunt Gina" id="30" weight="1" />
+      <edge source="Gary" target="Cranston" id="31" weight="1" />
+      <edge source="Gary" target="Mel" id="32" weight="1" />
+      <edge source="Gary" target="Mia" id="33" weight="1" />
+      <edge source="Gary" target="Bootsie" id="34" weight="1" />
+      <edge source="Gary" target="Gary mouths" id="35" weight="1" />
+      <edge source="Gary" target="Flo" id="36" weight="1" />
+      <edge source="Gary" target="Covid" id="37" weight="2" />
+      <edge source="Gary" target="Nick" id="38" weight="3" />
+      <edge source="Gary" target="Patricia naked" id="39" weight="1" />
+      <edge source="Gary" target="Thy" id="40" weight="1" />
+      <edge source="Gary" target="Matt" id="41" weight="1" />
+      <edge source="Gary" target="Perfect" id="42" weight="1" />
+      <edge source="Phoebe" target="Discman" id="43" weight="1" />
+      <edge source="Phoebe" target="Matt" id="44" weight="22" />
+      <edge source="Phoebe" target="Chaucer" id="45" weight="1" />
+      <edge source="Phoebe" target="Mia" id="46" weight="18" />
+      <edge source="Phoebe" target="Tom" id="47" weight="3" />
+      <edge source="Phoebe" target="Cornwall" id="48" weight="2" />
+      <edge source="Phoebe" target="Harry" id="49" weight="5" />
+      <edge source="Phoebe" target="Bob" id="50" weight="3" />
+      <edge source="Phoebe" target="Calvin Klein" id="51" weight="1" />
+      <edge source="Phoebe" target="Adam" id="52" weight="1" />
+      <edge source="Phoebe" target="Stone" id="53" weight="2" />
+      <edge source="Phoebe" target="Jane" id="54" weight="2" />
+      <edge source="Phoebe" target="Lila" id="55" weight="59" />
+      <edge source="Phoebe" target="Dante" id="56" weight="1" />
+      <edge source="Phoebe" target="Jesus" id="57" weight="3" />
+      <edge source="Phoebe" target="Dalloway" id="58" weight="2" />
+      <edge source="Phoebe" target="Virginia Woolf" id="59" weight="1" />
+      <edge source="Phoebe" target="Marla" id="60" weight="11" />
+      <edge source="Phoebe" target="Suz" id="61" weight="3" />
+      <edge source="Phoebe" target="Nat" id="62" weight="2" />
+      <edge source="Phoebe" target="Spoken" id="63" weight="1" />
+      <edge source="Phoebe" target="Shelley" id="64" weight="1" />
+      <edge source="Phoebe" target="Fort Adams" id="65" weight="1" />
+      <edge source="Phoebe" target="Blank" id="66" weight="1" />
+      <edge source="Phoebe" target="Goodbye" id="67" weight="1" />
+      <edge source="Phoebe" target="Albert Schuyler" id="68" weight="1" />
+      <edge source="Phoebe" target="Jane Eyre" id="69" weight="1" />
+      <edge source="Phoebe" target="Carlson" id="70" weight="3" />
+      <edge source="Phoebe" target="Ryun" id="71" weight="1" />
+      <edge source="Phoebe" target="Wharton" id="72" weight="1" />
+      <edge source="Phoebe" target="Tevas" id="73" weight="1" />
+      <edge source="Phoebe" target="Juice" id="74" weight="1" />
+      <edge source="Phoebe" target="Patricia" id="75" weight="4" />
+      <edge source="Phoebe" target="Professor" id="76" weight="1" />
+      <edge source="Phoebe" target="Shh" id="77" weight="1" />
+      <edge source="Phoebe" target="Velcros" id="78" weight="1" />
+      <edge source="Phoebe" target="marijuana" id="79" weight="1" />
+      <edge source="Phoebe" target="Queen Victoria" id="80" weight="1" />
+      <edge source="Phoebe" target="Geoffrey" id="81" weight="2" />
+      <edge source="Phoebe" target="Breakers" id="82" weight="1" />
+      <edge source="Phoebe" target="Nancy" id="83" weight="1" />
+      <edge source="Phoebe" target="Oliver" id="84" weight="1" />
+      <edge source="Phoebe" target="Roy" id="85" weight="1" />
+      <edge source="Phoebe" target="Everybody Water" id="86" weight="1" />
+      <edge source="Tom" target="Mia" id="87" weight="8" />
+      <edge source="Tom" target="Matt" id="88" weight="4" />
+      <edge source="Mia" target="Matt" id="89" weight="11" />
+      <edge source="Mia" target="Bob" id="90" weight="1" />
+      <edge source="Mia" target="Adam" id="91" weight="1" />
+      <edge source="Mia" target="Jane" id="92" weight="1" />
+      <edge source="Mia" target="Bitch" id="93" weight="1" />
+      <edge source="Mia" target="Modernist" id="94" weight="1" />
+      <edge source="Mia" target="Virginia Woolf" id="95" weight="1" />
+      <edge source="Mia" target="Marla" id="96" weight="1" />
+      <edge source="Mia" target="Joe" id="97" weight="1" />
+      <edge source="Matt" target="Shakespeare" id="98" weight="1" />
+      <edge source="Matt" target="Meowmeowmeowmeow" id="99" weight="1" />
+      <edge source="Matt" target="Harry" id="100" weight="7" />
+      <edge source="Matt" target="Emma" id="101" weight="1" />
+      <edge source="Matt" target="Woolf" id="102" weight="1" />
+      <edge source="Matt" target="Dalloway" id="103" weight="1" />
+      <edge source="Matt" target="Cornwall" id="104" weight="1" />
+      <edge source="Matt" target="Marla" id="105" weight="1" />
+      <edge source="Matt" target="Austen" id="106" weight="1" />
+      <edge source="Matt" target="Lila" id="107" weight="1" />
+      <edge source="Matt" target="Edgar Allan Poe’s" id="108" weight="1" />
+      <edge source="Matt" target="Breakers" id="109" weight="1" />
+      <edge source="Paula" target="Adam" id="110" weight="1" />
+      <edge source="Paula" target="Rick" id="111" weight="1" />
+      <edge source="Adam" target="Rick" id="112" weight="1" />
+      <edge source="Adam" target="Email Bob" id="113" weight="1" />
+      <edge source="Meowmeowmeowmeow" target="Harry" id="114" weight="1" />
+      <edge source="Harry" target="Joe" id="115" weight="1" />
+      <edge source="Harry" target="Goodbye" id="116" weight="1" />
+      <edge source="Bob" target="Bach" id="117" weight="1" />
+      <edge source="Doritos" target="Oreos" id="118" weight="1" />
+      <edge source="Oreos" target="Lila" id="119" weight="1" />
+      <edge source="Keurig" target="Jane" id="120" weight="1" />
+      <edge source="Jane" target="Brontë" id="121" weight="1" />
+      <edge source="Dalloway" target="Septimus" id="122" weight="1" />
+      <edge source="Dalloway" target="Virginia Woolf" id="123" weight="1" />
+      <edge source="Septimus" target="Woolf" id="124" weight="1" />
+      <edge source="Lila" target="Dante" id="125" weight="1" />
+      <edge source="Lila" target="Suz" id="126" weight="2" />
+      <edge source="Lila" target="Wendy" id="127" weight="1" />
+      <edge source="Lila" target="Carlson" id="128" weight="1" />
+      <edge source="Lila" target="Churchill" id="129" weight="1" />
+      <edge source="Lila" target="Marla" id="130" weight="17" />
+      <edge source="Lila" target="Nat" id="131" weight="9" />
+      <edge source="Lila" target="Tae Bo" id="132" weight="1" />
+      <edge source="Lila" target="Covid" id="133" weight="1" />
+      <edge source="Lila" target="Bourbon Bubbler" id="134" weight="1" />
+      <edge source="Lila" target="Gary goodbye" id="135" weight="1" />
+      <edge source="Lila" target="Maid" id="136" weight="1" />
+      <edge source="Lila" target="Juice" id="137" weight="1" />
+      <edge source="Lila" target="Mel" id="138" weight="2" />
+      <edge source="Lila" target="Jackie" id="139" weight="1" />
+      <edge source="Lila" target="Grandmother" id="140" weight="1" />
+      <edge source="Lila" target="Patricia" id="141" weight="6" />
+      <edge source="Lila" target="Viv" id="142" weight="1" />
+      <edge source="Lila" target="Sex Woman" id="143" weight="1" />
+      <edge source="Lila" target="Porn" id="144" weight="1" />
+      <edge source="Lila" target="Breakers" id="145" weight="1" />
+      <edge source="Lila" target="Patricia naked" id="146" weight="1" />
+      <edge source="Lila" target="Jesus Christ" id="147" weight="2" />
+      <edge source="Lila" target="Oliver" id="148" weight="1" />
+      <edge source="Dante" target="Geoffrey" id="149" weight="1" />
+      <edge source="Wharton" target="Edith Wharton" id="150" weight="1" />
+      <edge source="Suz" target="Nat" id="151" weight="14" />
+      <edge source="Suz" target="Marla" id="152" weight="2" />
+      <edge source="Suz" target="Jesus" id="153" weight="1" />
+      <edge source="Suz" target="Leon" id="154" weight="1" />
+      <edge source="Gregory Lancaster" target="Insert" id="155" weight="1" />
+      <edge source="Marla" target="Robert" id="156" weight="6" />
+      <edge source="Marla" target="Sexes" id="157" weight="2" />
+      <edge source="Marla" target="Nat" id="158" weight="2" />
+      <edge source="Marla" target="Jude Law" id="159" weight="1" />
+      <edge source="Marla" target="Roy" id="160" weight="1" />
+      <edge source="Marla" target="Shh" id="161" weight="1" />
+      <edge source="Marla" target="Ryun" id="162" weight="2" />
+      <edge source="Marla" target="Not Robert" id="163" weight="1" />
+      <edge source="Marla" target="Oliver" id="164" weight="3" />
+      <edge source="Marla" target="Breakers" id="165" weight="1" />
+      <edge source="Marla" target="Jesus Christ" id="166" weight="1" />
+      <edge source="Marla" target="Carlson" id="167" weight="1" />
+      <edge source="Jesus" target="Leon" id="168" weight="1" />
+      <edge source="Jesus" target="Nat" id="169" weight="1" />
+      <edge source="Roy" target="Nat" id="170" weight="1" />
+      <edge source="Roy" target="Nancy" id="171" weight="1" />
+      <edge source="Nat" target="Leon" id="172" weight="1" />
+      <edge source="Nat" target="Laurel" id="173" weight="2" />
+      <edge source="God" target="Juice" id="174" weight="1" />
+      <edge source="Covid" target="Nick" id="175" weight="1" />
+      <edge source="Spoken" target="marijuana" id="176" weight="1" />
+      <edge source="Aunt Gina" target="Uncle Gerald" id="177" weight="1" />
+      <edge source="Jackie" target="Grandmother" id="178" weight="2" />
+      <edge source="Jackie" target="Jackie Kennedy" id="179" weight="1" />
+      <edge source="Jackie" target="Bootsie" id="180" weight="1" />
+      <edge source="Jackie" target="JFK" id="181" weight="1" />
+      <edge source="Grandmother" target="Jackie Kennedy" id="182" weight="1" />
+      <edge source="Grandmother" target="Bootsie" id="183" weight="1" />
+      <edge source="Jackie Kennedy" target="Bootsie" id="184" weight="1" />
+      <edge source="Patricia" target="Breakers" id="185" weight="1" />
+      <edge source="Patricia" target="Jesus Christ" id="186" weight="2" />
+      <edge source="Patricia" target="Henry" id="187" weight="1" />
+      <edge source="Gran Cavallo" target="Leonardo" id="188" weight="1" />
+      <edge source="Mei Mei" target="CV" id="189" weight="1" />
+      <edge source="Thyme" target="Hanged Man" id="190" weight="1" />
+      <edge source="Geoffrey" target="Elizabeth" id="191" weight="1" />
+      <edge source="Oliver" target="Percy Jackson" id="192" weight="1" />
+    </edges>
+  </graph>
+</gexf>

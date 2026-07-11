@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-07">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Daniel Deronda" label="Daniel Deronda" />
+      <node id="Marianne" label="Marianne" />
+      <node id="George Eliot" label="George Eliot" />
+      <node id="Lorraine" label="Lorraine" />
+      <node id="Alan" label="Alan" />
+      <node id="Downstairs" label="Downstairs" />
+      <node id="Karen" label="Karen" />
+      <node id="History" label="History" />
+      <node id="Kerrigan" label="Kerrigan" />
+      <node id="Eric" label="Eric" />
+      <node id="Rob" label="Rob" />
+      <node id="Law" label="Law" />
+      <node id="Connell Waldron" label="Connell Waldron" />
+      <node id="Jack Hynes" label="Jack Hynes" />
+      <node id="Lisa" label="Lisa" />
+      <node id="Eric catches" label="Eric catches" />
+      <node id="Rachel" label="Rachel" />
+      <node id="Marianne Sheridan" label="Marianne Sheridan" />
+      <node id="Mick" label="Mick" />
+      <node id="Sligo" label="Sligo" />
+      <node id="Annie Kearney’s" label="Annie Kearney’s" />
+      <node id="Denise" label="Denise" />
+      <node id="Mr Knightley" label="Mr Knightley" />
+      <node id="Emma" label="Emma" />
+      <node id="Harriet" label="Harriet" />
+      <node id="Knightley" label="Knightley" />
+      <node id="Gareth" label="Gareth" />
+      <node id="Barry Kenny’s" label="Barry Kenny’s" />
+      <node id="Sinead" label="Sinead" />
+      <node id="Shame Marianne" label="Shame Marianne" />
+      <node id="Vampire Weekend" label="Vampire Weekend" />
+      <node id="Reagan" label="Reagan" />
+      <node id="Joanna" label="Joanna" />
+      <node id="Peggy" label="Peggy" />
+      <node id="James Connolly" label="James Connolly" />
+      <node id="Connell" label="Connell" />
+      <node id="Foxfield" label="Foxfield" />
+      <node id="Jamie" label="Jamie" />
+      <node id="Kelleher" label="Kelleher" />
+      <node id="McGowan" label="McGowan" />
+      <node id="nightclub Phantom" label="nightclub Phantom" />
+      <node id="Paulas" label="Paulas" />
+      <node id="Paula" label="Paula" />
+      <node id="Paula Neary" label="Paula Neary" />
+      <node id="Helen" label="Helen" />
+      <node id="Edward Snowden" label="Edward Snowden" />
+      <node id="Trieste" label="Trieste" />
+      <node id="James Salter" label="James Salter" />
+      <node id="Frank O’Hara’s" label="Frank O’Hara’s" />
+      <node id="Lately Connell" label="Lately Connell" />
+      <node id="Niall" label="Niall" />
+      <node id="Elaine" label="Elaine" />
+      <node id="Parma" label="Parma" />
+      <node id="Afterwards Helen" label="Afterwards Helen" />
+      <node id="Magdalene Laundry" label="Magdalene Laundry" />
+      <node id="Denis O’Brien" label="Denis O’Brien" />
+      <node id="Santa Claus" label="Santa Claus" />
+      <node id="Eileen" label="Eileen" />
+      <node id="Val" label="Val" />
+      <node id="Strandhill" label="Strandhill" />
+      <node id="Glencar" label="Glencar" />
+      <node id="Sometimes Marianne" label="Sometimes Marianne" />
+      <node id="Evelyn" label="Evelyn" />
+      <node id="Mum" label="Mum" />
+      <node id="Jack" label="Jack" />
+      <node id="Ciara Heffernan" label="Ciara Heffernan" />
+    </nodes>
+    <edges>
+      <edge source="Daniel Deronda" target="Marianne" id="0" weight="1" />
+      <edge source="Daniel Deronda" target="George Eliot" id="1" weight="1" />
+      <edge source="Marianne" target="George Eliot" id="2" weight="1" />
+      <edge source="Marianne" target="Lorraine" id="3" weight="18" />
+      <edge source="Marianne" target="Alan" id="4" weight="7" />
+      <edge source="Marianne" target="Karen" id="5" weight="11" />
+      <edge source="Marianne" target="History" id="6" weight="1" />
+      <edge source="Marianne" target="Kerrigan" id="7" weight="1" />
+      <edge source="Marianne" target="Law" id="8" weight="1" />
+      <edge source="Marianne" target="Rob" id="9" weight="4" />
+      <edge source="Marianne" target="Eric" id="10" weight="4" />
+      <edge source="Marianne" target="Connell Waldron" id="11" weight="1" />
+      <edge source="Marianne" target="Jack Hynes" id="12" weight="1" />
+      <edge source="Marianne" target="Lisa" id="13" weight="1" />
+      <edge source="Marianne" target="Eric catches" id="14" weight="1" />
+      <edge source="Marianne" target="Rachel" id="15" weight="3" />
+      <edge source="Marianne" target="Denise" id="16" weight="2" />
+      <edge source="Marianne" target="Gareth" id="17" weight="1" />
+      <edge source="Marianne" target="Vampire Weekend" id="18" weight="1" />
+      <edge source="Marianne" target="Reagan" id="19" weight="1" />
+      <edge source="Marianne" target="Joanna" id="20" weight="16" />
+      <edge source="Marianne" target="Peggy" id="21" weight="26" />
+      <edge source="Marianne" target="Foxfield" id="22" weight="1" />
+      <edge source="Marianne" target="Jamie" id="23" weight="10" />
+      <edge source="Marianne" target="Kelleher" id="24" weight="1" />
+      <edge source="Marianne" target="McGowan" id="25" weight="1" />
+      <edge source="Marianne" target="nightclub Phantom" id="26" weight="1" />
+      <edge source="Marianne" target="Paula Neary" id="27" weight="1" />
+      <edge source="Marianne" target="Edward Snowden" id="28" weight="1" />
+      <edge source="Marianne" target="Trieste" id="29" weight="1" />
+      <edge source="Marianne" target="Connell" id="30" weight="2" />
+      <edge source="Marianne" target="James Salter" id="31" weight="1" />
+      <edge source="Marianne" target="Frank O’Hara’s" id="32" weight="1" />
+      <edge source="Marianne" target="Elaine" id="33" weight="2" />
+      <edge source="Marianne" target="Parma" id="34" weight="1" />
+      <edge source="Marianne" target="Helen" id="35" weight="3" />
+      <edge source="Marianne" target="Afterwards Helen" id="36" weight="1" />
+      <edge source="Marianne" target="Magdalene Laundry" id="37" weight="1" />
+      <edge source="Marianne" target="Denis O’Brien" id="38" weight="1" />
+      <edge source="Marianne" target="Evelyn" id="39" weight="2" />
+      <edge source="Lorraine" target="Sligo" id="40" weight="1" />
+      <edge source="Lorraine" target="Alan" id="41" weight="1" />
+      <edge source="Lorraine" target="Helen" id="42" weight="1" />
+      <edge source="Lorraine" target="Denise" id="43" weight="1" />
+      <edge source="Alan" target="Downstairs" id="44" weight="1" />
+      <edge source="Alan" target="Mick" id="45" weight="1" />
+      <edge source="Alan" target="Annie Kearney’s" id="46" weight="1" />
+      <edge source="Alan" target="Mum" id="47" weight="1" />
+      <edge source="Karen" target="Eric catches" id="48" weight="1" />
+      <edge source="Karen" target="Rachel" id="49" weight="2" />
+      <edge source="Karen" target="Eric" id="50" weight="1" />
+      <edge source="History" target="Kerrigan" id="51" weight="1" />
+      <edge source="Eric" target="Rob" id="52" weight="9" />
+      <edge source="Eric" target="Connell Waldron" id="53" weight="1" />
+      <edge source="Eric" target="Jack Hynes" id="54" weight="1" />
+      <edge source="Eric" target="Lisa" id="55" weight="5" />
+      <edge source="Eric" target="Marianne Sheridan" id="56" weight="1" />
+      <edge source="Eric" target="Shame Marianne" id="57" weight="1" />
+      <edge source="Eric" target="Jack" id="58" weight="1" />
+      <edge source="Eric" target="Rachel" id="59" weight="1" />
+      <edge source="Eric" target="Ciara Heffernan" id="60" weight="1" />
+      <edge source="Rob" target="Connell Waldron" id="61" weight="1" />
+      <edge source="Rob" target="Jack Hynes" id="62" weight="1" />
+      <edge source="Rob" target="Lisa" id="63" weight="4" />
+      <edge source="Rob" target="Eileen" id="64" weight="1" />
+      <edge source="Rob" target="Val" id="65" weight="1" />
+      <edge source="Connell Waldron" target="Jack Hynes" id="66" weight="1" />
+      <edge source="Connell Waldron" target="Lisa" id="67" weight="1" />
+      <edge source="Jack Hynes" target="Lisa" id="68" weight="1" />
+      <edge source="Lisa" target="Jack" id="69" weight="1" />
+      <edge source="Lisa" target="Rachel" id="70" weight="1" />
+      <edge source="Lisa" target="Ciara Heffernan" id="71" weight="1" />
+      <edge source="Rachel" target="Jack" id="72" weight="1" />
+      <edge source="Rachel" target="Ciara Heffernan" id="73" weight="1" />
+      <edge source="Mr Knightley" target="Emma" id="74" weight="1" />
+      <edge source="Mr Knightley" target="Harriet" id="75" weight="1" />
+      <edge source="Emma" target="Harriet" id="76" weight="1" />
+      <edge source="Emma" target="Knightley" id="77" weight="1" />
+      <edge source="Barry Kenny’s" target="Sinead" id="78" weight="1" />
+      <edge source="Vampire Weekend" target="Reagan" id="79" weight="1" />
+      <edge source="Joanna" target="Peggy" id="80" weight="8" />
+      <edge source="Joanna" target="James Connolly" id="81" weight="1" />
+      <edge source="Joanna" target="Sometimes Marianne" id="82" weight="1" />
+      <edge source="Joanna" target="Evelyn" id="83" weight="2" />
+      <edge source="Peggy" target="Connell" id="84" weight="2" />
+      <edge source="Peggy" target="Jamie" id="85" weight="6" />
+      <edge source="Peggy" target="Lately Connell" id="86" weight="1" />
+      <edge source="Peggy" target="Parma" id="87" weight="1" />
+      <edge source="Kelleher" target="McGowan" id="88" weight="1" />
+      <edge source="Kelleher" target="nightclub Phantom" id="89" weight="1" />
+      <edge source="Kelleher" target="Santa Claus" id="90" weight="1" />
+      <edge source="McGowan" target="nightclub Phantom" id="91" weight="1" />
+      <edge source="Paulas" target="Paula" id="92" weight="1" />
+      <edge source="James Salter" target="Frank O’Hara’s" id="93" weight="1" />
+      <edge source="Niall" target="Elaine" id="94" weight="1" />
+      <edge source="Magdalene Laundry" target="Denis O’Brien" id="95" weight="1" />
+      <edge source="Strandhill" target="Glencar" id="96" weight="1" />
+      <edge source="Jack" target="Ciara Heffernan" id="97" weight="1" />
+    </edges>
+  </graph>
+</gexf>
