@@ -30,7 +30,6 @@ def convert_entities_to_excel(input_folder: str, output_file: str):
     wb.save(output_file)
     print(f"Excel file saved: {output_file}")
 
-# Run only when executed directly
 if __name__ == "__main__":
     convert_entities_to_excel(
         r"C:\Users\zheny\ma_thesis\NER_output",
