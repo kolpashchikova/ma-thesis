@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-07">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Trailways" label="Trailways" />
+      <node id="Eloe" label="Eloe" />
+      <node id="Spike Lee’s School" label="Spike Lee’s School" />
+      <node id="Sidney Poitier’s" label="Sidney Poitier’s" />
+      <node id="Roy" label="Roy" />
+      <node id="Little Roy" label="Little Roy" />
+      <node id="Jasmine" label="Jasmine" />
+      <node id="Bernadette" label="Bernadette" />
+      <node id="Whitley" label="Whitley" />
+      <node id="Dwayne" label="Dwayne" />
+      <node id="Roy Hamilton" label="Roy Hamilton" />
+      <node id="Roy Othaniel Hamilton" label="Roy Othaniel Hamilton" />
+      <node id="Gomer Pyle" label="Gomer Pyle" />
+      <node id="Jemison" label="Jemison" />
+      <node id="Roy O. Hamilton Jr." label="Roy O. Hamilton Jr." />
+      <node id="Woodyard Rd" label="Woodyard Rd" />
+      <node id="Walter" label="Walter" />
+      <node id="Patrice Lumumba" label="Patrice Lumumba" />
+      <node id="Gloria" label="Gloria" />
+      <node id="D" label="D" />
+      <node id="Spelman" label="Spelman" />
+      <node id="Raul Gomez" label="Raul Gomez" />
+      <node id="Howard" label="Howard" />
+      <node id="Franklin Delano Davenport" label="Franklin Delano Davenport" />
+      <node id="C. G. Davenport" label="C. G. Davenport" />
+      <node id="Othaniel Walter Jenkins II" label="Othaniel Walter Jenkins II" />
+      <node id="Roy Jr." label="Roy Jr." />
+      <node id="Tamar" label="Tamar" />
+      <node id="ROH" label="ROH" />
+      <node id="Robert A. Banks" label="Robert A. Banks" />
+      <node id="Robert Banks" label="Robert Banks" />
+      <node id="Merry" label="Merry" />
+      <node id="Davenport" label="Davenport" />
+      <node id="Andre Maurice Tucker" label="Andre Maurice Tucker" />
+      <node id="Celestial" label="Celestial" />
+      <node id="dreamer husband" label="dreamer husband" />
+      <node id="Banks" label="Banks" />
+      <node id="Sylvia" label="Sylvia" />
+      <node id="Gloria Celeste" label="Gloria Celeste" />
+      <node id="Celestial Gloriana" label="Celestial Gloriana" />
+      <node id="Bordeaux" label="Bordeaux" />
+      <node id="Andre" label="Andre" />
+      <node id="Hmm" label="Hmm" />
+      <node id="Ghetto Yoda" label="Ghetto Yoda" />
+      <node id="jollof rice" label="jollof rice" />
+      <node id="jerk chicken" label="jerk chicken" />
+      <node id="Jesus" label="Jesus" />
+      <node id="Reggie" label="Reggie" />
+      <node id="John Henry" label="John Henry" />
+      <node id="Roy McHenry" label="Roy McHenry" />
+      <node id="Hamilton" label="Hamilton" />
+      <node id="Roy Othaniel Hamilton Jr." label="Roy Othaniel Hamilton Jr." />
+      <node id="Ann Ingelman" label="Ann Ingelman" />
+      <node id="Annie Mae" label="Annie Mae" />
+      <node id="Annie Mae’s" label="Annie Mae’s" />
+      <node id="Jimmy" label="Jimmy" />
+      <node id="Fontenot" label="Fontenot" />
+      <node id="Davina Hardrick" label="Davina Hardrick" />
+      <node id="Son" label="Son" />
+      <node id="James Baldwin" label="James Baldwin" />
+      <node id="Alexandria" label="Alexandria" />
+      <node id="Carlos" label="Carlos" />
+      <node id="Tyler" label="Tyler" />
+      <node id="Jeanette" label="Jeanette" />
+      <node id="Olive" label="Olive" />
+      <node id="Hickey" label="Hickey" />
+      <node id="PO Box 973" label="PO Box 973" />
+      <node id="Johnnie Walker" label="Johnnie Walker" />
+      <node id="Dre" label="Dre" />
+      <node id="Jelani" label="Jelani" />
+      <node id="the Ghetto Yoda" label="the Ghetto Yoda" />
+      <node id="Muhammad Ali" label="Muhammad Ali" />
+      <node id="roy h." label="roy h." />
+      <node id="misc" label="misc" />
+      <node id="hamilton" label="hamilton" />
+      <node id="roy o. personal" label="roy o. personal" />
+      <node id="George Washington" label="George Washington" />
+      <node id="Lineups" label="Lineups" />
+      <node id="Locs" label="Locs" />
+    </nodes>
+    <edges>
+      <edge source="Trailways" target="Eloe" id="0" weight="1" />
+      <edge source="Eloe" target="Roy" id="1" weight="6" />
+      <edge source="Eloe" target="PO Box 973" id="2" weight="1" />
+      <edge source="Spike Lee’s School" target="Sidney Poitier’s" id="3" weight="1" />
+      <edge source="Roy" target="Little Roy" id="4" weight="1" />
+      <edge source="Roy" target="Gomer Pyle" id="5" weight="1" />
+      <edge source="Roy" target="Spelman" id="6" weight="1" />
+      <edge source="Roy" target="D" id="7" weight="1" />
+      <edge source="Roy" target="Roy O. Hamilton Jr." id="8" weight="4" />
+      <edge source="Roy" target="Woodyard Rd" id="9" weight="1" />
+      <edge source="Roy" target="Jemison" id="10" weight="1" />
+      <edge source="Roy" target="Franklin Delano Davenport" id="11" weight="1" />
+      <edge source="Roy" target="Othaniel Walter Jenkins II" id="12" weight="1" />
+      <edge source="Roy" target="Roy Jr." id="13" weight="1" />
+      <edge source="Roy" target="ROH" id="14" weight="1" />
+      <edge source="Roy" target="Robert A. Banks" id="15" weight="1" />
+      <edge source="Roy" target="Merry" id="16" weight="1" />
+      <edge source="Roy" target="Davenport" id="17" weight="2" />
+      <edge source="Roy" target="Andre Maurice Tucker" id="18" weight="1" />
+      <edge source="Roy" target="Celestial" id="19" weight="2" />
+      <edge source="Roy" target="Bordeaux" id="20" weight="1" />
+      <edge source="Roy" target="Walter" id="21" weight="6" />
+      <edge source="Roy" target="Roy Othaniel Hamilton" id="22" weight="1" />
+      <edge source="Roy" target="Jesus" id="23" weight="1" />
+      <edge source="Roy" target="Reggie" id="24" weight="1" />
+      <edge source="Roy" target="John Henry" id="25" weight="1" />
+      <edge source="Roy" target="Davina Hardrick" id="26" weight="1" />
+      <edge source="Roy" target="Annie Mae’s" id="27" weight="1" />
+      <edge source="Roy" target="Son" id="28" weight="1" />
+      <edge source="Roy" target="Alexandria" id="29" weight="1" />
+      <edge source="Roy" target="Olive" id="30" weight="2" />
+      <edge source="Roy" target="Hickey" id="31" weight="2" />
+      <edge source="Roy" target="PO Box 973" id="32" weight="1" />
+      <edge source="Roy" target="Johnnie Walker" id="33" weight="1" />
+      <edge source="Roy" target="Jelani" id="34" weight="2" />
+      <edge source="Roy" target="Muhammad Ali" id="35" weight="1" />
+      <edge source="Roy" target="George Washington" id="36" weight="1" />
+      <edge source="Roy" target="Andre" id="37" weight="1" />
+      <edge source="Jasmine" target="Bernadette" id="38" weight="1" />
+      <edge source="Whitley" target="Dwayne" id="39" weight="1" />
+      <edge source="Roy Hamilton" target="Roy Othaniel Hamilton" id="40" weight="1" />
+      <edge source="Jemison" target="Roy O. Hamilton Jr." id="41" weight="4" />
+      <edge source="Jemison" target="Woodyard Rd" id="42" weight="4" />
+      <edge source="Jemison" target="D" id="43" weight="1" />
+      <edge source="Jemison" target="ROH" id="44" weight="1" />
+      <edge source="Jemison" target="Robert Banks" id="45" weight="1" />
+      <edge source="Roy O. Hamilton Jr." target="Woodyard Rd" id="46" weight="4" />
+      <edge source="Roy O. Hamilton Jr." target="D" id="47" weight="1" />
+      <edge source="Roy O. Hamilton Jr." target="Franklin Delano Davenport" id="48" weight="1" />
+      <edge source="Roy O. Hamilton Jr." target="ROH" id="49" weight="1" />
+      <edge source="Roy O. Hamilton Jr." target="Robert A. Banks" id="50" weight="1" />
+      <edge source="Roy O. Hamilton Jr." target="Robert Banks" id="51" weight="1" />
+      <edge source="Woodyard Rd" target="D" id="52" weight="1" />
+      <edge source="Woodyard Rd" target="ROH" id="53" weight="1" />
+      <edge source="Woodyard Rd" target="Robert Banks" id="54" weight="1" />
+      <edge source="Walter" target="Patrice Lumumba" id="55" weight="1" />
+      <edge source="Walter" target="the Ghetto Yoda" id="56" weight="1" />
+      <edge source="Gloria" target="D" id="57" weight="1" />
+      <edge source="Gloria" target="Tamar" id="58" weight="1" />
+      <edge source="Gloria" target="dreamer husband" id="59" weight="1" />
+      <edge source="Gloria" target="Sylvia" id="60" weight="1" />
+      <edge source="D" target="C. G. Davenport" id="61" weight="1" />
+      <edge source="D" target="Hickey" id="62" weight="1" />
+      <edge source="Raul Gomez" target="Howard" id="63" weight="1" />
+      <edge source="Othaniel Walter Jenkins II" target="Roy Jr." id="64" weight="1" />
+      <edge source="Tamar" target="Dre" id="65" weight="1" />
+      <edge source="Tamar" target="Jelani" id="66" weight="1" />
+      <edge source="Davenport" target="Andre" id="67" weight="1" />
+      <edge source="Banks" target="Sylvia" id="68" weight="1" />
+      <edge source="Gloria Celeste" target="Celestial Gloriana" id="69" weight="1" />
+      <edge source="Hmm" target="Ghetto Yoda" id="70" weight="1" />
+      <edge source="jollof rice" target="jerk chicken" id="71" weight="1" />
+      <edge source="Roy McHenry" target="Hamilton" id="72" weight="1" />
+      <edge source="Roy McHenry" target="Roy Othaniel Hamilton Jr." id="73" weight="1" />
+      <edge source="Roy McHenry" target="Ann Ingelman" id="74" weight="1" />
+      <edge source="Hamilton" target="Roy Othaniel Hamilton Jr." id="75" weight="1" />
+      <edge source="Hamilton" target="Ann Ingelman" id="76" weight="1" />
+      <edge source="Roy Othaniel Hamilton Jr." target="Ann Ingelman" id="77" weight="1" />
+      <edge source="Annie Mae" target="Annie Mae’s" id="78" weight="1" />
+      <edge source="Annie Mae’s" target="Davina Hardrick" id="79" weight="1" />
+      <edge source="Jimmy" target="Fontenot" id="80" weight="1" />
+      <edge source="Fontenot" target="James Baldwin" id="81" weight="1" />
+      <edge source="Carlos" target="Tyler" id="82" weight="1" />
+      <edge source="Carlos" target="Jeanette" id="83" weight="1" />
+      <edge source="roy h." target="misc" id="84" weight="1" />
+      <edge source="hamilton" target="roy o. personal" id="85" weight="1" />
+      <edge source="Lineups" target="Locs" id="86" weight="1" />
+    </edges>
+  </graph>
+</gexf>
