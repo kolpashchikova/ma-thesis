@@ -2,12 +2,10 @@ from pathlib import Path
 import spacy
 from openpyxl import Workbook
 
-# ---------------- SETTINGS ----------------
-RAW_TEXTS_FOLDER = Path(r"C:\Users\zheny\ma_thesis")   # where your .txt files are
-NER_OUTPUT_FOLDER = RAW_TEXTS_FOLDER / "NER_output"     # where _entities.txt will go
+RAW_TEXTS_FOLDER = Path(r"C:\Users\zheny\ma_thesis")   
+NER_OUTPUT_FOLDER = RAW_TEXTS_FOLDER / "NER_output"     
 EXCEL_OUTPUT_FILE = NER_OUTPUT_FOLDER / "all_entities.xlsx"
 WINDOW_SIZE = 7
-# ------------------------------------------
 
 def run_ner_pipeline():
     NER_OUTPUT_FOLDER.mkdir(exist_ok=True)
@@ -73,10 +71,8 @@ def convert_entities_to_excel():
 
 
 if __name__ == "__main__":
-    # Step 1: Extract NER (only if you want to process raw text)
     run_ner_pipeline()
 
-    # Step 2: Convert entity files to Excel
     convert_entities_to_excel()
 
 
