@@ -38,6 +38,5 @@ def run_ner_pipeline(input_folder: str, window_size: int = 5):
 
     print("\nNER extraction done. Check the NER_output folder.")
 
-# Run only when executed directly
 if __name__ == "__main__":
     run_ner_pipeline(r"C:\Users\zheny\ma_thesis")
