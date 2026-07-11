@@ -1,0 +1,23 @@
+# Quantifying BookTok: Style, Speed, and Market Influence in Contemporary Fiction 
+
+This repository contains the Python code used for the DH part of my MA thesis.
+
+## Structure
+
+- `scripts/` — Python scripts
+- `texts/` — corpus of the ten novels
+- `output/` — generated statistics, networks, wordclouds and figures
+
+Scripts were developed in Python 3.13 using spaCy, pandas, NetworkX, matplotlib, and WordCloud.
+
+## Thesis description in English:
+This master's thesis examines the influence of the social media platform BookTok on the formal and stylistic characteristics of contemporary English-language novels. The study begins by asking whether the shift in reading habits during the digital age and the increasing commercialization of the book market are reflected in the structure of literary texts. It tests the hypothesis that novels successful within the BookTok context exhibit simplified narrative structures, more action-oriented language, and other formal adaptations to changing conditions of reception.
+To address this question, a corpus of ten English-language novels was compiled, comprising five works from the period prior to the rise of BookTok (2016–2020) and five from the period following it (2021–2025). Using both computer-assisted methods from the digital humanities and manual analysis, the study examined various textual features, including character constellations and their network density, sentence, paragraph, and chapter lengths, as well as lexical properties—specifically the frequency of verbs and nouns.
+The results do not confirm the hypothesis. While the novels studied show distinct differences in their formal composition, these cannot be systematically linked to their association with the BookTok era. Instead, these differences are closely tied to specific narrative requirements, the plot, and the individual styles of the authors. Thus, according to the study's findings, BookTok primarily influences the marketing, visibility, and reception of literature, rather than clearly shaping its formal structure.
+Due to the limited size of the corpus, no generalizations can be made regarding contemporary literature as a whole or the entire spectrum of BookTok novels. However, the thesis demonstrates the potential of digital humanities methods for literary research and contributes to the ongoing discussion concerning the relationship between social media, reading practices, and contemporary literature.
+
+## Thesis description in German:
+Die vorliegende Masterarbeit untersucht den Einfluss der Social-Media-Plattform BookTok auf die formalen und stilistischen Merkmale zeitgenössischer englischsprachiger Romane. Ausgangspunkt der Untersuchung ist die Frage, ob sich der Wandel von Lesegewohnheiten im digitalen Zeitalter sowie die zunehmende Kommerzialisierung des Buchmarktes in der Struktur literarischer Texte widerspiegeln. Dabei wird die Hypothese geprüft, dass Romane, die im Kontext von BookTok erfolgreich sind, vereinfachte Erzählstrukturen, handlungsorientiertere Sprache sowie weitere formale Anpassungen an veränderte Rezeptionsbedingungen aufweisen.
+Zur Beantwortung dieser Fragestellung wurde ein Korpus aus zehn englischsprachigen Romanen erstellt, das jeweils fünf Werke aus der Zeit vor (2016–2020) und nach (2021–2025) dem Aufstieg von BookTok umfasst. Mithilfe computergestützter Verfahren aus den Digital Humanities sowie manueller Analyse wurden verschiedene Textmerkmale untersucht, darunter Figurenkonstellationen und deren Netzwerkdichte, Satz-, Absatz- und Kapitellängen sowie lexikalische Eigenschaften, insbesondere die Häufigkeit von Verben und Substantiven.
+Die Ergebnisse bestätigen die aufgestellte Hypothese nicht. Zwar zeigen die untersuchten Romane deutliche Unterschiede hinsichtlich ihrer formalen Gestaltung, diese lassen sich jedoch nicht systematisch mit der Zugehörigkeit zur BookTok-Ära in Verbindung bringen. Vielmehr stehen sie in engem Zusammenhang mit den jeweiligen erzählerischen Anforderungen, der Handlung und dem individuellen Stil der Autorinnen und Autoren. BookTok beeinflusst somit nach den Ergebnissen dieser Untersuchung vor allem die Vermarktung, Sichtbarkeit und Rezeption von Literatur, nicht jedoch eindeutig ihre formale Gestaltung.
+Aufgrund des begrenzten Umfangs des Korpus lassen sich keine allgemeingültigen Aussagen über die Gesamtheit zeitgenössischer Literatur oder aller BookTok-Romane treffen. Die Arbeit zeigt jedoch das Potenzial digital-humanistischer Methoden für die literaturwissenschaftliche Forschung und leistet einen Beitrag zur Diskussion über das Verhältnis von sozialen Medien, Lesepraktiken und gegenwärtiger Literatur.
